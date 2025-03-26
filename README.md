@@ -1,9 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 FIrst line
 =======
 =======
 >>>>>>> b8df681 (added readme.md)
+=======
+>>>>>>> 0b7af20 (added other files)
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -56,4 +59,10 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 # git-remotedir
 ....
 >>>>>>> 2d6bdaa (Initial commit)
+<<<<<<< HEAD
 >>>>>>> b8df681 (added readme.md)
+=======
+=======
+FIrst line
+>>>>>>> 7a18478 (added readme.md and somefile.txt)
+>>>>>>> 0b7af20 (added other files)
